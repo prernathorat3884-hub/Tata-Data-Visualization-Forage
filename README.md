@@ -47,4 +47,7 @@ This project focuses on analyzing retail sales data using Power BI and presentin
 
 ## Certificate
 
+[Forage Certificate](https://drive.google.com/file/d/1-KXfQK4Ja9zKNWzGA2onmiuJfSm9O7kd/view?usp=sharing)
+
 Completed the Tata Data Visualisation Job Simulation offered by Forage.
+
