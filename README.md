@@ -45,6 +45,10 @@ This project focuses on analyzing retail sales data using Power BI and presentin
 - Data Cleaning
 - Business Communication
 
+ ## Presentation Video
+
+🎥 [Watch Presentation Video](https://drive.google.com/file/d/1NDKCRUgs2x9imF3UBGqYua8cVywprIYZ/view?usp=sharing).
+
 ## Certificate
 
 [Forage Certificate](https://drive.google.com/file/d/1-KXfQK4Ja9zKNWzGA2onmiuJfSm9O7kd/view?usp=sharing)
